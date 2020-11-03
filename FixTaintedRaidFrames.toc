@@ -1,0 +1,12 @@
+#@retail@
+## Interface: 90001
+#@end-retail@
+#@classic@
+# ## Interface: 11305
+#@end-classic@
+## Title: FixTaintedRaidFrames
+## Version: 1.0.0
+## Notes: Toggles Interface>Raid Profiles>Keep Groups Together twice to fix tainted raid frames.
+## Author: Furyus, Furyus__, FuryusSvetlo, FuryusSvětlo, Furyus_Svetlo, Furyus_Světlo
+## X-Email: FuryusSvetlo@gmail.com
+FixTaintedRaidFrames.lua

@@ -1,8 +1,8 @@
 #@retail@
-## Interface: 90001
+## Interface: 90005
 #@end-retail@
 #@classic@
-# ## Interface: 11305
+# ## Interface: 11306
 #@end-classic@
 ## Title: FixTaintedRaidFrames
 ## Version: 1.0.0
